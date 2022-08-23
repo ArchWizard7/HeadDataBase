@@ -1,0 +1,10 @@
+api-version: 1.19
+author: ArchWizard7
+description: プレイヤーヘッドのデータベースを提供します
+main: me.archwizard7.headdatabase.Main
+name: HeadDataBase
+version: 1.0
+commands:
+  headdatabase:
+    aliases: hdb
+    description: HeadDataBaseの基本コマンドです
